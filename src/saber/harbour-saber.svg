@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   width="107.5"
+   height="107.5"
+   xml:space="preserve"
+   sodipodi:docname="harbour-saber.svg"
+   inkscape:export-filename="/home/saber/harbour-saber-im/src/saber/harbour-saber.png"
+   inkscape:export-xdpi="70.325584"
+   inkscape:export-ydpi="70.325584"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><linearGradient
+       inkscape:collect="always"
+       id="linearGradient3857"><stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3859" /><stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop3861" /></linearGradient><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16"><path
+         d="M 43,85.7 C 19.417,85.7 0.3,66.582 0.3,43 l 0,0 0,-41.277 C 0.3,0.937 0.937,0.3 1.723,0.3 l 0,0 41.277,0 c 23.583,0 42.7,19.118 42.7,42.7 l 0,0 0,41.277 c 0,0.786 -0.637,1.423 -1.423,1.423 l 0,0 -41.277,0 z"
+         id="path18" /></clipPath><linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(84.5662,84.5662,84.5662,-84.5662,0.716867,0.7169284)"
+       spreadMethod="pad"
+       id="linearGradient24"><stop
+         style="stop-color:#3e249f;stop-opacity:1;"
+         offset="0"
+         id="stop26" /><stop
+         style="stop-color:#0086e8;stop-opacity:1;"
+         offset="1"
+         id="stop28" /></linearGradient><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath36"><path
+         d="M 0,86 86,86 86,0 0,0 0,86 z"
+         id="path38" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath48"><path
+         d="m 10.975,45.8094 36.4621,0 0,-34.8344 -36.4621,0 0,34.8344 z"
+         id="path50" /></clipPath><clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath68"><path
+         d="m 0.300003,45.8094 10.674997,0 0,-27.2247 -10.674997,0 0,27.2247 z"
+         id="path70" /></clipPath><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient24"
+       id="linearGradient3829"
+       x1="0.30000001"
+       y1="43"
+       x2="85.699997"
+       y2="43"
+       gradientUnits="userSpaceOnUse" /><radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3857"
+       id="radialGradient3863"
+       cx="54.741028"
+       cy="45.540451"
+       fx="54.741028"
+       fy="45.540451"
+       r="15.943359"
+       gradientTransform="matrix(1,0,0,1.5876516,0,-26.761919)"
+       gradientUnits="userSpaceOnUse" /><filter
+       id="filter3207"
+       inkscape:label="Invert"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Invert colors"
+       color-interpolation-filters="sRGB"><feColorMatrix
+         id="feColorMatrix3209"
+         type="saturate"
+         values="1"
+         result="fbSourceGraphic" /><feColorMatrix
+         id="feColorMatrix3211"
+         in="fbSourceGraphic"
+         values="-1 0 0 0 1 0 -1 0 0 1 0 0 -1 0 1 0 0 0 1 0 " /></filter><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient24"
+       id="linearGradient4006"
+       x1="16.944916"
+       y1="7.6525426"
+       x2="54.84322"
+       y2="57.029663"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad" /><linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient24"
+       id="linearGradient5536"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="pad"
+       x1="3.0974576"
+       y1="2.9152544"
+       x2="53.401764"
+       y2="53.219563" /></defs><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="741"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="4.3906976"
+     inkscape:cx="25.374273"
+     inkscape:cy="53.446031"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g10"><inkscape:grid
+       type="xygrid"
+       id="grid4217" /></sodipodi:namedview><g
+     id="g10"
+     inkscape:groupmode="layer"
+     inkscape:label="icon-launcher-template"
+     transform="matrix(1.25,0,0,-1.25,0,107.5)"><g
+       id="g12"
+       style="fill-opacity:1;fill:url(#linearGradient4006)"
+       inkscape:export-filename="/home/saber/harbour-saber-im/src/saber/harbour-saber.png"
+       inkscape:export-xdpi="70.819672"
+       inkscape:export-ydpi="70.819672"><g
+         id="g14"
+         clip-path="url(#clipPath16)"
+         style="fill-opacity:1.0;fill:url(#linearGradient4006)"
+         inkscape:export-xdpi="215.83138"
+         inkscape:export-ydpi="215.83138"
+         inkscape:export-filename="/home/saber/harbour-saber-im/src/saber/harbour-saber-large.png"><g
+           id="g20"
+           style="fill-opacity:1.0;fill:url(#linearGradient4006)"><g
+             id="g22"
+             style="fill-opacity:1.0;fill:url(#linearGradient4006)"><path
+               d="M 43,85.7 C 19.417,85.7 0.3,66.582 0.3,43 l 0,0 0,-41.277 C 0.3,0.937 0.937,0.3 1.723,0.3 l 0,0 41.277,0 c 23.583,0 42.7,19.118 42.7,42.7 l 0,0 0,41.277 c 0,0.786 -0.637,1.423 -1.423,1.423 l 0,0 -41.277,0 z"
+               style="fill:url(#linearGradient5536);stroke:none;fill-opacity:1"
+               id="path30"
+               inkscape:export-filename="/home/saber/harbour-saber-im/src/saber/harbour-saber.png"
+               inkscape:export-xdpi="70.819672"
+               inkscape:export-ydpi="70.819672" /></g></g></g></g><image
+       y="-141.93814"
+       x="-47.556782"
+       id="image3204"
+       xlink:href="data:image/png;base64,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
+"
+       height="204.8"
+       width="204.8"
+       transform="matrix(0.2560104,0,0,-0.2560104,28.959565,36.077825)"
+       style="filter:url(#filter3207)" /></g></svg>
